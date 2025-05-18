@@ -13,6 +13,4 @@
   - List assignment (or "Uncategorized")
 - ⚡ Supports both GitHub CLI (PowerShell) and direct API scraping (Python)
 
----
-
 Ideal for personal archiving, data analysis, or keeping a tidy starboard 🚀
