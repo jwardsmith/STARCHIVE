@@ -24,18 +24,18 @@
 
 | full\_name            | description | html\_url                                                                        | language | stars | forks | created\_at | updated\_at |
 | --------------------- | ----------- | -------------------------------------------------------------------------------- | -------- | ----- | ----- | ----------- | ----------- |
-| `octocat/Hello-World` | Sample repo | [https://github.com/octocat/Hello-World](https://github.com/octocat/Hello-World) | Ruby     | 1520  | 600   | ...         | ...         |
+| `gentilkiwi/mimikatz` | A little tool to play with Windows security | [https://github.com/gentilkiwi/mimikatz](https://github.com/gentilkiwi/mimikatz) | C     | 20186  | 3873   | 2014-04-06T18:30:02Z         | 2025-05-18T10:01:59Z         |
 
 ### `starred_repo_lists.csv` (Python script)
 
 | repo\_full\_name | repo\_url                                                              | description     | stars | list\_name     |
 | ---------------- | ---------------------------------------------------------------------- | --------------- | ----- | -------------- |
-| `psf/requests`   | [https://github.com/psf/requests](https://github.com/psf/requests)     | HTTP lib        | 50k+  | Python Tools   |
-| `vercel/next.js` | [https://github.com/vercel/next.js](https://github.com/vercel/next.js) | React framework | 110k+ | Web Frameworks |
+| `PowerShellMafia/PowerSploit`   | [https://github.com/PowerShellMafia/PowerSploit](https://github.com/PowerShellMafia/PowerSploit)     | PowerSploit - A PowerShell Post-Exploitation Framework        | 12325  | Active Directory   |
+| `redcanaryco/atomic-red-team` | [https://github.com/redcanaryco/atomic-red-team](https://github.com/redcanaryco/atomic-red-team) | Small and highly portable detection tests based on MITRE's ATT&CK. | 10561 | Adversary Emulation |
 
 ---
 
-## ⚙Installation
+## Installation
 
 Clone the repo:
 
@@ -50,7 +50,6 @@ cd starchive
 
 ### Requirements:
 
-* PowerShell 5.1+
 * [GitHub CLI](https://cli.github.com/) installed and authenticated (`gh auth login`)
 
 ### Run:
@@ -63,11 +62,10 @@ This will output `starred_repos.csv`.
 
 ---
 
-## Python Usage (Categorized Lists)
+## Python Usage (Categorised Lists)
 
 ### Requirements:
 
-* Python 3.7+
 * `requests` installed (`pip install requests`)
 
 ### Set credentials in the script:
