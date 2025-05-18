@@ -73,8 +73,8 @@ This will output `starred_repos.csv`.
 Edit `StarredRepoLists.py` and set:
 
 ```python
-GITHUB_USERNAME = "your_username"
-GITHUB_TOKEN = "your_personal_access_token"
+GITHUB_USERNAME = "<your_username>"
+GITHUB_TOKEN = "<your_personal_access_token>"
 ```
 
 ### Run:
