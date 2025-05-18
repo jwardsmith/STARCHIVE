@@ -1,6 +1,6 @@
 # STARCHIVE
 
-**STARCHIVE** is a toolset for collecting, organising, and exporting your GitHub starred repositories. Whether you're saving projects for inspiration, research, or tracking tools, STARCHIVE turns stars into structured data — and even recognizes starred **Lists**.
+**STARCHIVE** is a toolset for collecting, organising, and exporting your GitHub starred repositories. Whether you're saving projects for inspiration, research, or tracking tools, STARCHIVE turns stars into structured data — and even recognises starred **Lists**.
 
 ---
 
