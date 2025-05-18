@@ -40,8 +40,8 @@
 Clone the repo:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/starchive.git
-cd starchive
+git clone https://github.com/jwardsmith/STARCHIVE.git
+cd STARCHIVE
 ```
 
 ---
