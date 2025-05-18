@@ -1,6 +1,6 @@
 # STARCHIVE
 
-**Starchive** is a toolset for collecting, organizing, and exporting your GitHub starred repositories. Whether you're curating inspiration, tracking tools, or maintaining research lists, Starchive helps you make sense of your stars.
+**Starchive** is a toolset for collecting, organising, and exporting your GitHub starred repositories. Whether you're curating inspiration, tracking tools, or maintaining research lists, Starchive helps you make sense of your stars.
 
 ### ✨ Features
 
