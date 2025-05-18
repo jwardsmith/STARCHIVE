@@ -12,7 +12,7 @@
   - Repository name and URL
   - Description and language
   - Star count
-  - List assignment (or "Uncategorized")
+  - List assignment (or "Uncategorised")
 - Supports both **PowerShell + GitHub CLI** and **Python + GitHub API**
 - Great for automation, backups, dashboards, or analysis
 
