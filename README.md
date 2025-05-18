@@ -4,21 +4,21 @@
 
 ---
 
-### ✨ Features
+### Features
 
-- 🔍 Fetch all your GitHub starred repositories
-- 🗂 Detect stars in GitHub Lists and categorise (if used)
-- 📦 Export structured CSV files with metadata like:
+- Fetch all your GitHub starred repositories
+- Detect stars in GitHub Lists and categorise (if used)
+- Export structured CSV files with metadata like:
   - Repository name and URL
   - Description and language
   - Star count
   - List assignment (or "Uncategorized")
-- ⚡ Supports both **PowerShell + GitHub CLI** and **Python + GitHub API**
+- Supports both **PowerShell + GitHub CLI** and **Python + GitHub API**
 - Great for automation, backups, dashboards, or analysis
 
 ---
 
-## 📁 Output Examples
+## Output Examples
 
 ### `starred_repos.csv` (PowerShell script)
 
@@ -35,7 +35,7 @@
 
 ---
 
-## ⚙️ Installation
+## ⚙Installation
 
 Clone the repo:
 
@@ -46,7 +46,7 @@ cd starchive
 
 ---
 
-## 👚 PowerShell Usage (Requires GitHub CLI)
+## PowerShell Usage (Requires GitHub CLI)
 
 ### Requirements:
 
@@ -63,7 +63,7 @@ This will output `starred_repos.csv`.
 
 ---
 
-## 🐍 Python Usage (Categorized Lists)
+## Python Usage (Categorized Lists)
 
 ### Requirements:
 
@@ -89,7 +89,7 @@ This will output `starred_repo_lists.csv`.
 
 ---
 
-## 📝 Notes
+## Notes
 
 * The **GitHub token** must have `public_repo` scope.
 * Lists are a feature on GitHub Stars UI — [example here](https://github.com/stars/YOUR_USERNAME/lists).
@@ -97,7 +97,7 @@ This will output `starred_repo_lists.csv`.
 
 ---
 
-## ❤️ Inspired by
+## Inspired by
 
 * GitHub CLI (`gh api`)
 * GitHub’s new "Starred Lists"
