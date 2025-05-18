@@ -5,7 +5,7 @@
 ### ✨ Features
 
 - 🔍 Fetch all your GitHub starred repositories
-- 🗂 Detect and categorize stars into GitHub's "Lists" (if used)
+- 🗂 Detect stars in GitHub Lists and categorise (if used)
 - 📦 Export structured CSV files with metadata like:
   - Repository name and URL
   - Description and language
