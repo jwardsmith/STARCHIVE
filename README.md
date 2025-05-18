@@ -99,6 +99,6 @@ This will output `starred_repo_lists.csv`.
 
 * GitHub CLI (`gh api`)
 * GitHub’s new "Starred Lists"
-* Manual pain of organizing stars
+* Manual pain of organising stars
 
 ---
