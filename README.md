@@ -90,7 +90,7 @@ This will output `starred_repo_lists.csv`.
 ## Notes
 
 * The **GitHub token** must have `public_repo` scope.
-* Lists are a feature on GitHub Stars UI — [example here](https://github.com/stars/YOUR_USERNAME/lists).
+* Lists are a feature on GitHub Stars UI — [example here](https://github.com/stars/jwardsmith/lists).
 * STARCHIVE is read-only — it **does not modify** any of your GitHub data.
 
 ---
